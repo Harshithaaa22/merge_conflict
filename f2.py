@@ -1,0 +1,1 @@
+print("created f2 file in release")
